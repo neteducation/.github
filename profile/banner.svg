@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Network Education®: A escola dos provedores de internet">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1F232F"/>
+      <stop offset="1" stop-color="#2A2F3D"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#04B4EF"/>
+      <stop offset="1" stop-color="#A0CC3B"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#04B4EF" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#04B4EF"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#FFFFFF" stroke-opacity="0.035"/>
+    </pattern>
+    <radialGradient id="glow" cx="0.85" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#04B4EF" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#04B4EF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1280" height="320" rx="16" fill="url(#bg)"/>
+  <rect width="1280" height="320" rx="16" fill="url(#grid)"/>
+  <rect width="1280" height="320" rx="16" fill="url(#glow)"/>
+  <g>
+    <line x1="957" y1="103" x2="982" y2="36" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="957" y1="103" x2="994" y2="177" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="982" y1="36" x2="957" y2="103" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="982" y1="36" x2="994" y2="177" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="994" y1="177" x2="982" y2="198" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="994" y1="177" x2="1006" y2="251" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="893" y1="171" x2="865" y2="134" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="893" y1="171" x2="869" y2="222" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="1116" y1="90" x2="1140" y2="150" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="1116" y1="90" x2="1194" y2="55" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="1226" y1="130" x2="1194" y2="55" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="1226" y1="130" x2="1140" y2="150" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="869" y1="222" x2="893" y2="171" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="869" y1="222" x2="865" y2="134" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="982" y1="198" x2="994" y2="177" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="982" y1="198" x2="1006" y2="251" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="825" y1="50" x2="865" y2="134" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="825" y1="50" x2="893" y2="171" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="1179" y1="270" x2="1235" y2="270" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="1179" y1="270" x2="1140" y2="150" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="1194" y1="55" x2="1226" y2="130" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="1194" y1="55" x2="1116" y2="90" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="865" y1="134" x2="893" y2="171" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="865" y1="134" x2="869" y2="222" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="1006" y1="251" x2="982" y2="198" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="1006" y1="251" x2="994" y2="177" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="1235" y1="270" x2="1179" y2="270" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="1235" y1="270" x2="1226" y2="130" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="1080" y1="170" x2="1140" y2="150" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="1080" y1="170" x2="994" y2="177" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="1140" y1="150" x2="1080" y2="170" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="1140" y1="150" x2="1116" y2="90" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <circle cx="957" cy="103" r="6" fill="#A0CC3B"/>
+    <circle cx="957" cy="103" r="13" fill="none" stroke="#A0CC3B" stroke-opacity="0.35"/>
+    <circle cx="982" cy="36" r="3.5" fill="#04B4EF"/>
+    <circle cx="994" cy="177" r="3.5" fill="#04B4EF"/>
+    <circle cx="893" cy="171" r="3.5" fill="#A0CC3B"/>
+    <circle cx="1116" cy="90" r="6" fill="#04B4EF"/>
+    <circle cx="1116" cy="90" r="13" fill="none" stroke="#04B4EF" stroke-opacity="0.35"/>
+    <circle cx="1226" cy="130" r="3.5" fill="#04B4EF"/>
+    <circle cx="869" cy="222" r="3.5" fill="#A0CC3B"/>
+    <circle cx="982" cy="198" r="3.5" fill="#04B4EF"/>
+    <circle cx="825" cy="50" r="6" fill="#04B4EF"/>
+    <circle cx="825" cy="50" r="13" fill="none" stroke="#04B4EF" stroke-opacity="0.35"/>
+    <circle cx="1179" cy="270" r="3.5" fill="#A0CC3B"/>
+    <circle cx="1194" cy="55" r="3.5" fill="#04B4EF"/>
+    <circle cx="865" cy="134" r="3.5" fill="#04B4EF"/>
+    <circle cx="1006" cy="251" r="6" fill="#A0CC3B"/>
+    <circle cx="1006" cy="251" r="13" fill="none" stroke="#A0CC3B" stroke-opacity="0.35"/>
+    <circle cx="1235" cy="270" r="3.5" fill="#04B4EF"/>
+    <circle cx="1080" cy="170" r="3.5" fill="#04B4EF"/>
+    <circle cx="1140" cy="150" r="3.5" fill="#A0CC3B"/>
+  </g>
+  <rect x="72" y="82" width="56" height="4" rx="2" fill="url(#accent)"/>
+  <text x="72" y="150" fill="#FFFFFF" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="-1">Network Education®</text>
+  <text x="72" y="200" fill="#C9D1D9" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="24">A escola dos provedores de internet</text>
+  <text x="72" y="256" fill="#04B4EF" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="3">NETWORK EDUCATION®</text>
+</svg>
